@@ -77,7 +77,7 @@ The table below lists leading managed web scraping, headless browser clouds, and
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top open-source crawlers, autonomous AI browser agents, stealth drivers, and chatbot knowledge ingestion frameworks. Sorted by **GitHub Stars_Count (descending)**:
+Explore the top open-source crawlers, autonomous AI browser agents, stealth drivers, and chatbot knowledge ingestion frameworks. Sorted by **GitHub_Stars_Count (descending)**:
 
 | 🏆 Project & Repository | 🌟 GitHub_Stars | 💻 Primary Stack | 📖 Description & Architectural Focus |
 |:---|:---:|:---|:---|
