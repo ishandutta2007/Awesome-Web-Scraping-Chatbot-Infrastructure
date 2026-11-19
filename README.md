@@ -29,6 +29,7 @@
 - [💼 SaaS & Hosted Cloud Platforms](#-saas--hosted-cloud-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📜 License](#-license)
 - [⚠️ Disclaimer](#-disclaimer)
@@ -119,6 +120,23 @@ Explore the top open-source crawlers, autonomous AI browser agents, stealth driv
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Web-Scraping-Chatbot-Infrastructure&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Web-Scraping-Chatbot-Infrastructure&type=date&legend=top-left)
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Web-Scraping-Chatbot-Infrastructure&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Web-Scraping-Chatbot-Infrastructure&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome Web Scraping & Chatbot Infrastructure**! 🙏
+
+If you found this curated ecosystem helpful, please consider supporting the project:
+- 🌟 **Star this repository** to help others discover it!
+- 🍴 **Fork and share** it across your network, community, or developer circles.
+- ☕ **Buy me a coffee / Sponsor**: If this resource saved you time or accelerated your projects, you can back ongoing curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</div>
 
 ---
 
